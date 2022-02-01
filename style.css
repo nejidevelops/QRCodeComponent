@@ -54,6 +54,7 @@ p{
     color: var(--colorB);
     font-size: 15px;
     padding: 0 5px 20px;
+    font-weight:400;
 }
 
 @media(max-width:375px){
